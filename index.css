@@ -1,0 +1,260 @@
+
+
+.home{
+	background-color: #024335ff;
+	height: 2000px;
+}
+
+header {
+	background: ;
+    height: 10vh;
+	padding: 0 0;	
+}
+
+
+.caixa {
+	position: fixed ;
+	width: 100%;
+	background-color: ;
+}
+#logomenu{
+	width: 20%;
+	position: absolute;
+	display: inline;
+
+}
+@font-face {
+	font-family: "Phenomena_Thin";
+	src: local(Phenomena-Thin), url(../Agora_Vai/Phenomena-Thin.otf);
+ }
+ @font-face {
+	font-family: "Marvin-Regular";
+	src: local(Marvin-Regular.otf), url(../Agora_Vai/Marvin-Regular.otf);
+ }
+
+nav {
+	position: absolute;
+	background-color:#F2EDA7 ;
+	top: 0;
+	left: 0;
+    width: 100%;
+    padding: 7px 0;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	text-align: center;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+/* caixa dos submenus*/
+nav li {
+	display: inline;
+	margin: 5px 10px 5px 5px;}
+
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+
+.menu{
+list-style:none;
+border: px solid #c0c0c0;
+float:left;
+margin-left: 200px;
+width: 100%;
+background-color:;
+}
+
+.menu li{
+    position:relative;
+    float:left;
+	margin:0 20px;
+	padding:;
+    border-right:px solid;
+}
+
+.menu li a{
+	color:#333; 
+	text-decoration:none;
+	padding:10px 0px; 
+	display:block;}
+
+.menu li a:hover{
+background:#024335ff;
+border-radius: 10px;
+color:#fff;
+-moz-box-shadow:0 3px 10px 0 #CCC;
+-webkit-box-shadow:0 3px 10px 0 #ccc;
+text-shadow:0px 0px 5px #fff;
+
+}
+
+.menu li  ul{
+    position:absolute;
+    top: 43px;
+	left:-50%;
+    background-color:#F2EDA7;
+    display:none;
+	text-align: center;
+}
+
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.menu li ul li{
+    border:px solid #c0c0c0;
+    display:block;
+    width: 200px;
+}
+
+.desenvolv1{
+	height: 100vh;
+	align-items: center;
+	
+}
+#video{
+	padding-top: 5vh;
+	display: block;
+	margin: auto;
+	padding-left: ;
+	width: 70%;
+	margin: ;
+	
+}  
+.desenvolv2{
+	height: 100vh;
+	background-color: #FFFFFF;
+}
+
+.desenvolv3{
+	height: 100vh;
+	background-color: #F2EDA7;
+}
+.desenvolv4{
+	height: 100vh;
+	background-color: #024335ff;
+}
+
+/*
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.produtos li:hover {
+	border-color: #C78C19;
+}
+
+.produtos li:active {
+	border-color: #088C19;	
+}
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.descricao {
+	font-size: 18px;
+}
+
+.nome {
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+*/
+
+.imagem{position: absolute;
+	top: 150px;
+	left: 400px;
+	width: 500px;
+	height: 500px;}
+
+
+	
+
+#rodape{
+	width: 100%;
+}
+
+.social {
+	position: absolute;
+	display:inline-block;
+	top: 50vh;
+	left:0px;
+	width: px ;
+	z-index: ;
+
+}
+
+.contato li {
+	display: inline-block;
+	width: 100%;
+}
+
+
+
+#face {
+	width: 8px;
+
+}
+
+#insta{
+	width: 8px;
+}
+
+#in{
+	width: 8px;
+}
+
+.contato{
+	margin: 0 auto;
+	padding: 5px;
+}
+.center{
+	width: 100vh;
+	margin-left: auto ;
+	margin-right: auto;
+	color: #FFFFFF;
+}
+.bottom{
+	position: absolute;
+	bottom: -2000px;
+}
+.copyright {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 15px;
+	width: 100%;
+	border-left: #FFFFFF 0px solid;
+	border-right: #FFFFFF 0px solid;
+
+}
