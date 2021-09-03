@@ -258,3 +258,11 @@ nav a:hover {
 	border-right: #FFFFFF 0px solid;
 
 }
+.team{
+	width: 84%;
+	margin: 0 auto;
+	background-color: grey;
+}
+.team li{
+display: inline-block;
+}
