@@ -5,8 +5,13 @@ iframe{
     height: 400px;
     overflow: none;
     margin-left: 6%;
+    position: relative;
+    top: 50px;
+    z-index: -1;
 }
 
 iframe::-webkit-scrollbar{
     display:none;
+    display: block;
+    overflow: hidden;
 }
