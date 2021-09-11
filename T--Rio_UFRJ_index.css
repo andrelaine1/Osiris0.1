@@ -10,7 +10,7 @@
     height:100%;
     position:fixed;
     z-index:9999;
-    background:url(/T--Rio_UFRJ_Brazil--loading.gif) no-repeat center center rgba(0,0,0,0.25)
+    background:url(T--Rio_UFRJ_Brazil--loading.gif) no-repeat center center rgba(0,0,0,0.25)
 }
 
 header {
