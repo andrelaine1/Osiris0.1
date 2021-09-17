@@ -1,11 +1,15 @@
 html{
     scroll-behavior: smooth;
 }
-
+.body_index{
+	background-color: rgba(0,0,0,0.0);
+	overflow:overlay;
+}
 .home{
-	background-color: rgba(0, 0, 0, 0.0) ;
+	background-color: #024335ff ;
 	height: 2000px;
-	overflow: overlay;
+	overflow:overlay
+	;
 }
 
 #load{
