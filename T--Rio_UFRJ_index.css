@@ -1,8 +1,11 @@
-
+html{
+    scroll-behavior: smooth;
+}
 
 .home{
-	background-color: #024335ff;
+	background-color: rgba(0, 0, 0, 0.0) ;
 	height: 2000px;
+	overflow: overlay;
 }
 
 #load{
@@ -12,6 +15,31 @@
     z-index:9999;
     background:url(T--Rio_UFRJ_Brazil--loading.gif) no-repeat center center rgba(0,0,0,0.25)
 }
+
+::-webkit-scrollbar {
+	width: 15px;
+	
+}
+
+/* turn on the buttons at the top */
+::-webkit-scrollbar-button:start{
+	height: 15vh;
+}
+/* turn off the buttons at the bottom */
+::-webkit-scrollbar-button:end{	
+	
+}
+
+::-webkit-scrollbar-track{
+	background-color: #F2EDA7;
+	-webkit-border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+	background: #FFB509;
+	border-radius: 10px;
+	
+  }
+
 
 header {
 	background: ;
@@ -34,9 +62,9 @@ header {
 
 }
 #imglogomenu{
-	width: 45%;
+	width: 43%;
 	display: flex;
-	border: #024335ff 3px solid;
+	border: #00624D 4px solid;
 	border-radius: 50%;
 	max-width: 100%;
 	margin: 0 auto;
@@ -55,7 +83,8 @@ nav {
 	left: 0;
     width: 100%;
     padding: 7px 0;
-	border-bottom: #024335ff 3px solid;
+	border-bottom: #00624D 4px solid;
+	border-top: #00624D solid 4px;
 
 }
 
@@ -132,6 +161,7 @@ text-shadow:0px 0px 5px #fff;
 .desenvolv1{
 	height: 100vh;
 	align-items: center;
+	background-color: #024335ff;
 	
 }
 #video{
