@@ -326,9 +326,9 @@ footer{
 
 }
 .team{
-	width: 91%;
+	width: 90%;
 	margin: 0 auto;
-	background-color: grey;
+	background-color: whitesmoke;
 }
 .team li{
 display: inline-block;
