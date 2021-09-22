@@ -1,0 +1,11 @@
+iframe{
+    z-index: 10;
+    position: absolute;
+    right: 0;
+    height: 60%;
+    width: 35%;
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgba(255,0,0,0,6);
+    border: none;
+}

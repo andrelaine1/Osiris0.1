@@ -1,0 +1,37 @@
+.imagemprojeto {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("");
+}
+.textoimagem {
+    position: absolute;
+    background-color: (2,67,53);
+    color:black;
+    text-align: center;
+    width: 50%;
+    line-height: 30px;
+    height: 30px;
+    margin-left: 25%;
+    margin-top: -300px;
+    font-size:50.7px;
+    font-weight: bold;
+}
+
+.principal{
+    width: 100%;
+}
+
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    }
+
+.coluna-50 {
+    width: 50%;
+ }
+
+ .coluna-100 {
+    width: 100%;
+ }
+
