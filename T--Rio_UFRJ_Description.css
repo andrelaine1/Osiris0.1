@@ -4,6 +4,16 @@
     height: 600px;
     background-image:url("T--Rio_UFRJ_mosquito.png");
 }
+.imagemengineering{
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_engineeringSuccess.png");
+}
+.imagem-modeling{
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_projectModeling.png");
+}
 .textoimagem {
     position: absolute;
     background-color: rgb(2,67,53,1);
