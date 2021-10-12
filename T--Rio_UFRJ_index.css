@@ -118,7 +118,7 @@ font-size: 12px;
 list-style:none;
 border: px solid #c0c0c0;
 float:left;
-margin-left: 200px;
+margin-left: 100px;
 width: 100%;
 background-color:;
 }
@@ -332,7 +332,7 @@ footer{
 
 }
 .team{
-	width: 71%;
+	width: 81%;
 	margin: 0 auto;
 	background-color: whitesmoke;
 }
