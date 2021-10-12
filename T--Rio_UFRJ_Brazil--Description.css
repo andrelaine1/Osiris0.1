@@ -2,22 +2,59 @@
 
     width: 100%;
     height: 600px;
-    background-image:url("T--Rio_UFRJ_mosquito.png");
+    background-image:url("T--Rio_UFRJ_Brazil--mosquito.png");
+}
+
+.imagemprojeto2 {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_Brazil--human.png");
+    background-repeat: no-repeat;
+}
+.imagemcontribution {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_Brazil--contribution.png");
+    background-repeat: no-repeat;
+}
+
+.imagempartnership {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_Brazil--Partnership.png");
+    background-repeat: no-repeat;
+}
+.imagemparts {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_Brazil--parts.png");
+    background-repeat: no-repeat;
+}
+.imagemproposed {
+
+    width: 100%;
+    height: 600px;
+    background-image:url("T--Rio_UFRJ_Brazil--proposed.png");
+    background-repeat: no-repeat;
 }
 .imagemengineering{
     width: 100%;
     height: 600px;
-    background-image:url("T--Rio_UFRJ_engineeringSuccess.png");
+    background-image:url("T--Rio_UFRJ_Brazil--engineeringSuccess.png");
 }
 .imagem-modeling{
     width: 100%;
     height: 600px;
-    background-image:url("T--Rio_UFRJ_projectModeling.png");
+    background-image:url("T--Rio_UFRJ_Brazil--projectModeling.png");
 }
 .imagem-acessibilidade{
     width: 100%;
     height: 600px;
-    background-image:url("T--Rio_UFRJ_inclusao.png");
+    background-image:url("T--Rio_UFRJ_Brazil--inclusao.png");
 }
 .textoimagem {
     position: absolute;
