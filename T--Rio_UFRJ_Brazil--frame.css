@@ -18,7 +18,7 @@ iframe::-webkit-scrollbar{
 
 .agradecimento{
     border: none;
-    background: url('T--Rio_UFRJ_Brazil--agradecimento.png') no-repeat; 
+    background: url('https://2021.igem.org/wiki/images/3/39/T--Rio_UFRJ_Brazil--agradecimento.png') no-repeat; 
     width: auto;
     height: 400px;
     background-position: center;
@@ -26,7 +26,7 @@ iframe::-webkit-scrollbar{
 .fabiana{
     z-index: 5
     border: none;
-    background: url('T--Rio_UFRJ_Brazil--fabiana.png') no-repeat; 
+    background: url('https://2021.igem.org/wiki/images/9/9c/T--Rio_UFRJ_Brazil--fabiana.png') no-repeat; 
     width: auto;
     height: 400px;
     background-position: center;
@@ -37,7 +37,7 @@ iframe::-webkit-scrollbar{
 .monica{
     z-index: 5
     border: none;
-    background: url('T--Rio_UFRJ_Brazil--monica.png') no-repeat; 
+    background: url('https://2021.igem.org/wiki/images/0/05/T--Rio_UFRJ_Brazil--monica.png') no-repeat; 
     width: auto;
     height: 400px;
     background-position: center;
